@@ -34,9 +34,6 @@
       "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/src/tests/__mock__/fileTransformer.js"
     }
   },
-  "bin": {
-    "simple-react-app": "./bin/sra.js"
-  },
   "preferGlobal": true,
   "devDependencies": {
     "babel-core": "^6.26.0",
@@ -74,7 +71,6 @@
     "prop-types": "^15.6.1",
     "react": "^16.0.0",
     "react-bootstrap": "^0.32.3",
-    "react-bootstrap-date-picker": "^5.1.0",
     "react-dom": "^16.0.0",
     "react-router-dom": "^4.2.2"
   },
